@@ -1,0 +1,31 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+form{
+    padding-bottom: 30px;
+}
+
+.inputForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-self: center;
+    align-items: center;
+}
+
+li{
+    list-style: none;
+
+}
